@@ -1,0 +1,14 @@
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\bin\Debug\net6.0\Тест.exe
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\bin\Debug\net6.0\Тест.deps.json
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\bin\Debug\net6.0\Тест.runtimeconfig.json
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\bin\Debug\net6.0\Тест.dll
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\bin\Debug\net6.0\Тест.pdb
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.AssemblyInfoInputs.cache
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.AssemblyInfo.cs
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.dll
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\refint\Тест.dll
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.pdb
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\Тест.genruntimeconfig.cache
+C:\Users\Даниил\Desktop\Лаб\C#\Программы\Лаб 8\Тест\obj\Debug\net6.0\ref\Тест.dll
