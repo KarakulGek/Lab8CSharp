@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             //Изменение №2
+            //Проверено
             Console.Write("Введите количество команд: ");
             int n = int.Parse(Console.ReadLine());
             Team[] teams = new Team[n];
